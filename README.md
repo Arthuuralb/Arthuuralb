@@ -1,13 +1,18 @@
 ## Olá! Eu sou o Arthur Albuquerque 🖐️
 
+```css
+Fullstack JavaScript
+```
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arthuur.alb?utm_source=qr)
 <a href = "mailto:arthur.alb7858@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/arthur-albuquerque-b33a77265" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <br><br>
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthuuralb&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img align="right" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthuuralb&layout=compact&langs_count=16&theme=rose_pine"/>
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=Arthuuralb&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthuuralb&layout=compact&langs_count=16&theme=rose_pine"/>
   
 </div>
 
