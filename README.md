@@ -9,6 +9,11 @@ Fullstack JavaScript
 <a href="www.linkedin.com/in/arthur-albuquerque-b33a77265" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <br><br>
+
+<div align="center"> 
+  <img  src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e477sst09gk63o0p2rxf4kw40jw9oxs14865vyk8jfb&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35%">
+  </div>
+  
 <div>
   
   <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=Arthuuralb&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
