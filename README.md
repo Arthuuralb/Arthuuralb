@@ -39,5 +39,13 @@ Fullstack JavaScript
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
+![](https://github-profile-trophy.vercel.app/?username=Arthuuralb&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+
+
+
+
+
+
 
 
