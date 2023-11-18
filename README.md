@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Arthur+Albuquerque😄;Tenho+19+Anos..👾;Sou+de+Recife,+PE🤘;Seja+Bem-vindo!👨‍💻+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8B&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Arthur+Albuquerque😄;Tenho+19+Anos..👾;Sou+de+Recife,+PE🤘;Seja+Bem-vindo!👨‍💻+:%29)](https://git.io/typing-svg)
 
 ```css
 Fullstack JavaScript
@@ -44,9 +44,13 @@ Fullstack JavaScript
 ![](https://github-profile-trophy.vercel.app/?username=Arthuuralb&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Arthuuralb}/count.svg" /></p> 
+<br>
+</div>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
 
 
 
